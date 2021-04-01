@@ -1,10 +1,10 @@
 body {
-    background-color: #ffffff;
+    background-color: #fff;
     border-image: 0px;
 }
 
 .a {
-    background: #415ab0;
+    background: #415A80;
     text-align: center;
     padding: 1px;
     margin: 4px;
@@ -24,7 +24,7 @@ th {
 
 caption {
     border: solid 3px;
-    color: #415ab0;
+    color: #415A80;
     background: #CFDADA padding: 8px;
     margin: 6px;
     margin-left: 2px;
@@ -36,7 +36,7 @@ td {
 
 .aaa {
     border: solid 4px;
-    color: #415ab0;
+    color: #415A80;
     width: 300px;
     margin: 3px;
     margin-left: 450px;
