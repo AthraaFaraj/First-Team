@@ -14,8 +14,12 @@ ul {
     list-style-type: none;
     overflow: hidden;
     margin: 3px;
+    text-align: center;
     background: #CFDADA;
-    margin-left: 250px;
+    margin-top: 10px;
+    font-size: 20px;
+    font-weight: 600;
+    color: rgb(58, 58, 58);
 }
 
 th {
@@ -25,9 +29,11 @@ th {
 caption {
     border: solid 3px;
     color: #415A80;
-    background: #CFDADA padding: 8px;
-    margin: 6px;
+    background: #CFDADA;
+     padding: 8px;
+    margin-top: 20px;
     margin-left: 2px;
+    font-size: 20px;
 }
 
 td {
@@ -38,10 +44,15 @@ td {
     border: solid 4px;
     color: #415A80;
     width: 300px;
-    margin: 3px;
-    margin-left: 450px;
+    margin-left: 750px;
+    margin-top: 20px;
 }
 
-#id contact-box img {
-    float: left;
+#contact-box {font-size: 50px;
+margin-left: 850px;
+margin-top: 50px;
+
 }
+
+.fab{color: #6f8686;}
+    
