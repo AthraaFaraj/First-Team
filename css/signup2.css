@@ -1,7 +1,7 @@
 body{
     margin: 0;
     padding: 0;
-    background: #cfdada;
+    background-image: url('../images/back.jpg');
     font-family: sans-serif;
     
     
@@ -28,7 +28,7 @@ text-align: center;
 }
 .add4 h1{
     font-family: sans-serif;
-   
+   /*text-shadow: #0b0e0e;*/
 }
 
 .imgschool2{ height: 85%;
