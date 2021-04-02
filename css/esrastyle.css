@@ -68,7 +68,10 @@ margin-top: 20px;
 
 }
 
-
+.container{
+    width: 50%;
+    
+}
 .wrapper .topheader .personal{display: flex;
     float: right;
     flex-direction: row;
