@@ -5,7 +5,7 @@ list-style: none;
 text-decoration: none;
 }
 
-
+.container{width:50%;}
 
 .wrapper{display: flex;
 position: relative;}
@@ -54,7 +54,7 @@ flex-direction: row;
 justify-content: space-between;}
 .wrapper .topheader{width: 100%;
 margin-left: 250px;
-background-color:  rgb(40, 24, 80);
+background-color:  #415A80;
 top: 0%;
 padding-bottom: 20px;
 }
@@ -275,7 +275,7 @@ footer{
     height: 90px;
     display: flex;
     flex-direction: row;
-background-color: rgb(40, 24, 80);
+background-color: #415A80;
 }
 
 .main footer{width: 100%;

@@ -6,18 +6,51 @@ body{
    
     
 }
+.ele {
+    display: flex;
+    flex-direction: row;
+}
+.add3{
+    width: 300px;
+    position: absolute;
+    top: 50%;
+    left: 55%;
+    transform: translate(-150%,-50%);
+    
+    width: 400px;
+    height: 480px;
+    box-sizing: border-box;
+    /*background-color: #bbd5d8;
+    
+    box-shadow: 8px 8px 50px rgb(109, 106, 106);*/
+    color: #12777e;
+text-align: center;
+}
+.add3 h1{
+    font-family: sans-serif;
+   
+}
+
+.img5{ height: 85%;
+    width: 85%;
+    border: thin solid #12777e;
+    border-radius: 50%;
+    box-shadow: 8px 8px 50px rgb(109, 106, 106);
+    
+
+}
 .login{
     position: absolute;
     top: 50%;
     left: 50%;
-    transform: translate(-50%,-50%);
+    transform: translate(30%,-50%);
     padding: 60px 30px;
     width: 400px;
     height: 480px;
     box-sizing: border-box;
     background-color: #bbd5d8;
     color: #000;
-    box-shadow: 8px 8px 50px #000;
+    box-shadow: 8px 8px 50px rgb(170, 169, 169);
 
 }
 .user{
@@ -68,21 +101,23 @@ background-color: #f1f1f1;
  ::placeholder{
  color: rgb(150, 151, 153,.5);
 }
-.login input[type="submit"]
+.sign3
 {
     border: none;
     outline: none;
-    height: 40px;
+    height: 30px;
     color: #cfdada;
-    font-size: 16px;
+    font-size: 14px;
     background: #071d80;
     cursor: pointer;
     border-radius: 20px;
     font-weight: bold;
-
+    width: 350px;
+    margin: -30px;
+    margin-left: 2px;
 
 }
-.login input[type="submit"]:hover
+.sign3:hover
 {
     background:#cfdada ;
     color: #000;
